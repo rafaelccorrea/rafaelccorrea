@@ -15,3 +15,5 @@
   <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
+
+  ![Snake animation](https://github.com/rafaelccorrea/rafaelccorrea/blob/output/github-contribution-grid-snake.svg)
