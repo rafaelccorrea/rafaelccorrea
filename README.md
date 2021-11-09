@@ -1,4 +1,4 @@
-## Ola me chamo Rafael Correa Dev FullStack
+## Olá, me chamo Rafael Correa, sou Dev FullStack 🐱‍👤✔
 
 <div align="center">
   <a href="https://github.com/rafaelccorrea">
